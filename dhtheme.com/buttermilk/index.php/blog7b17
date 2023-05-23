@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<feed xmlns="http://www.w3.org/2005/Atom"  xml:lang="en-gb">
+	<title type="text">Blog</title>
+	<subtitle type="text"></subtitle>
+	<link rel="alternate" type="text/html" href="http://dhtheme.com"/>
+	<id>http://dhtheme.com/buttermilk/index.php/blog</id>
+	<updated>2019-09-27T13:54:03+00:00</updated>
+	<author>
+		<name>ButterMilk - Organic Dairy Farm VirtueMart Joomla Template</name>
+	</author>
+	<generator uri="https://www.joomla.org">Joomla! - Open Source Content Management</generator>
+	<link rel="self" type="application/atom+xml" href="http://dhtheme.com/buttermilk/index.php/blog?format=feed&amp;type=atom"/>
+	<entry>
+		<title>100% Organic Products</title>
+		<link rel="alternate" type="text/html" href="http://dhtheme.com/buttermilk/index.php/blog/16-100-organic-products"/>
+		<published>2018-10-16T05:09:00+00:00</published>
+		<updated>2018-10-16T05:09:00+00:00</updated>
+		<id>http://dhtheme.com/buttermilk/index.php/blog/16-100-organic-products</id>
+		<author>
+			<name>Super User</name>
+		</author>
+		<summary type="html">&lt;p&gt;&lt;img src=&quot;http://dhtheme.com/buttermilk/images/Demo/elements/blog1.jpg&quot; /&gt;&lt;/p&gt;&lt;p&gt;We, at ButterMilk, are producing some of the best 100% organic dairy products in Europe. Last year we had 250 more cows in our farm and thus our production increased with 25%. We are proud to announce that we received the &quot;Producer of the year&quot; award in Bulgaria in the dairy category.&lt;/p&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;
+</summary>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;http://dhtheme.com/buttermilk/images/Demo/elements/blog1.jpg&quot; /&gt;&lt;/p&gt;&lt;p&gt;We, at ButterMilk, are producing some of the best 100% organic dairy products in Europe. Last year we had 250 more cows in our farm and thus our production increased with 25%. We are proud to announce that we received the &quot;Producer of the year&quot; award in Bulgaria in the dairy category.&lt;/p&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;
+</content>
+		<category term="Blog" />
+	</entry>
+	<entry>
+		<title>Why butter is good for your health?</title>
+		<link rel="alternate" type="text/html" href="http://dhtheme.com/buttermilk/index.php/blog/17-why-butter-is-good-for-your-health"/>
+		<published>2018-10-16T05:09:00+00:00</published>
+		<updated>2018-10-16T05:09:00+00:00</updated>
+		<id>http://dhtheme.com/buttermilk/index.php/blog/17-why-butter-is-good-for-your-health</id>
+		<author>
+			<name>Super User</name>
+		</author>
+		<summary type="html">&lt;p&gt;&lt;img src=&quot;http://dhtheme.com/buttermilk/images/Demo/elements/blog2.jpg&quot; /&gt;&lt;/p&gt;&lt;p&gt;The butter is filled with immune-boosting vitamins, and it will reduce symptoms of diabetes. Of course butter is way better than margarine and it can prevent tooth decay as well. We won't even speak about the taste...mmm, toasted bread with butter - amazing!&lt;/p&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;
+</summary>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;http://dhtheme.com/buttermilk/images/Demo/elements/blog2.jpg&quot; /&gt;&lt;/p&gt;&lt;p&gt;The butter is filled with immune-boosting vitamins, and it will reduce symptoms of diabetes. Of course butter is way better than margarine and it can prevent tooth decay as well. We won't even speak about the taste...mmm, toasted bread with butter - amazing!&lt;/p&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;
+</content>
+		<category term="Blog" />
+	</entry>
+	<entry>
+		<title>Company produces frozen yogurt with traditional Bulgarian yogurt</title>
+		<link rel="alternate" type="text/html" href="http://dhtheme.com/buttermilk/index.php/blog/18-company-produces-frozen-yogurt-with-traditional-bulgarian-yogurt"/>
+		<published>2018-10-16T05:09:00+00:00</published>
+		<updated>2018-10-16T05:09:00+00:00</updated>
+		<id>http://dhtheme.com/buttermilk/index.php/blog/18-company-produces-frozen-yogurt-with-traditional-bulgarian-yogurt</id>
+		<author>
+			<name>Super User</name>
+		</author>
+		<summary type="html">&lt;p&gt;&lt;img src=&quot;http://dhtheme.com/buttermilk/images/Demo/elements/blog3.jpg&quot; /&gt;&lt;/p&gt;&lt;p&gt;Last month we've teamed up with FrozY'O LLC company. They are a big ice cream producer and they wanted to diversify their portfolio. We've talked and came to the idea to produce frozen yogurt, using our traditional Bulgarian yogurt. The final product is amazing and this August you will be able to find it the store near you.&lt;/p&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;
+</summary>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;http://dhtheme.com/buttermilk/images/Demo/elements/blog3.jpg&quot; /&gt;&lt;/p&gt;&lt;p&gt;Last month we've teamed up with FrozY'O LLC company. They are a big ice cream producer and they wanted to diversify their portfolio. We've talked and came to the idea to produce frozen yogurt, using our traditional Bulgarian yogurt. The final product is amazing and this August you will be able to find it the store near you.&lt;/p&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;
+</content>
+		<category term="Blog" />
+	</entry>
+</feed>

@@ -1,0 +1,7 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+dhtheme.com	TRUE	/	FALSE	1999999999	$Version	deleted
+dhtheme.com	TRUE	/	FALSE	1999999999	1971329a7dd6aa4dcad293827c86ab67	deleted
+dhtheme.com	TRUE	/	FALSE	1999999999	8e5cf21d7e409a01c126c03528d17cbf	deleted
+dhtheme.com	TRUE	/	FALSE	1999999999	$Path	deleted
+
